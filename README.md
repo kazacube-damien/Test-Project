@@ -2,4 +2,4 @@ Test-Project
 ============
 
 My test project
-updated
+updated (2)
